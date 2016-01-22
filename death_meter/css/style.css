@@ -1,0 +1,23 @@
+/******************************************************
+CSS for Death Meter Plugin
+******************************************************/
+
+/* global */
+#shortcode_wrapper {width:100%;float:left;}
+#shortcode_wrapper h2 {color:blue;}
+#shortcode_wrapper h3 {color:blue;font-size:13px;}
+
+/* one of one shortcode */
+.shortcode_value_holder {background:yellow;width:80%;text-align:center;font-weight:900;margin:0 auto}
+.shortcode_row {float:left;width:100%;height:30px;}
+.shortcode_row_blockone {width:30%;float:left;background:yellow;text-align:center;font-weight:900;margin:0 10px 0 0}
+.shortcode_row_blockone_under {background:none;float:left;text-align;center;font-weight:900;margin:0 10px 0 0}
+.shortcode_row_blockone_last {float:right:}
+.shortcode_row_blockone_under {width:30%;float:left;text-align:center;font-weight:800;}
+
+/*two of two shortcode */
+.two_left {float:left;width:50%;}
+.two_right {float:right;width:48%;}
+.two {width:23%;}
+.two_bottom_row {width:100%;float:left;}
+#two_wrapper {width:100%;float:left;margin-bottom:20px;}
